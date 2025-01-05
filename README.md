@@ -1,10 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <a href="https://haresh2684.github.io">
-        <img src="https://images8.alphacoders.com/115/1156488.png" alt="MasterHead" style="max-width: 50%; max-height: 50%;">
-    </a>
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Haresh Krishnamoorthy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2684&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2684" /> </p>
