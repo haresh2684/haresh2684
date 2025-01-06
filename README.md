@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hareshkrishnamoorthy04@gmail.com**
 
-- ⚡ Fun fact **Outside of coding, you’ll find me sharpening my chess skills or exploring the beauty of the Japanese language and culture!**
+- ⚡ Fun fact **Outside of coding, You’ll find me sharpening my chess skills or exploring the beauty of the Japanese language and culture!**
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -31,16 +31,14 @@
   <a href="https://www.linkedin.com/in/haresh-krishnamoorthy-64049025a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haresh krishnamoorthy" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/haresh_krishnamoorthy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haresh_krishnamoorthy" height="30" width="40" />
-  </a>
+  
   <a href="https://www.codechef.com/users/hatch_sheen_84" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hatch_sheen_84" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@hareshkrishna" target="blank">
+  <a href="https://www.hackerrank.com/profile/hareshkrishna" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hareshkrishna" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/haresh_krishnamoorthy" target="blank">
+  <a href="https://leetcode.com/u/Haresh_Krishnamoorthy/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haresh_krishnamoorthy" height="30" width="40" />
   </a>
 </p>
