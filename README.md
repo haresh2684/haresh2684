@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haresh Krishnamoorthy</h1>
 <hr>
 <p align="left"> 
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="haresh2684" /> 
+  <img src="https://way2wise.com/wp-content/uploads/2022/09/Nobody-Ever-Won-A-Chess-Game-By-Resigning-1024x512.webp" alt="haresh2684" /> 
 </p>
-<h3 align="center"><b>A passionate frontend developer from India</b></h3>
+<h3 align="center"><b>You may learn much more from a game you Lose than fram a game you Won</b></h3>
 <hr>
 
 
