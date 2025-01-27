@@ -3,7 +3,7 @@
 <p align="left"> 
   <img src="https://way2wise.com/wp-content/uploads/2022/09/Nobody-Ever-Won-A-Chess-Game-By-Resigning-1024x512.webp" alt="haresh2684" /> 
 </p>
-<h3 align="center"><b>You may learn much more from a game you Lose than fram a game you Won</b></h3>
+<h3 align="center"><b>You may learn much more from a game you Lose than from a game you Won</b></h3>
 <hr>
 
 
